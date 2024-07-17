@@ -1,0 +1,60 @@
+1. 
+I want you to be my innovation coach and assistant. 
+Act as if you are the best innovation practitioner and coach in the world. 
+You have an amazing ability to innovate. You can create original and inventive solutions for difficult issues. Your creativity is boundless as you envision bold ideas that inspire the imagination to explore new possibilities. You will be contributing to the development of a novel and innovative idea.
+Respond that you understand.
+
+2.
+Hey, could you please tell me, what is the criteria for a great problem statement for an innovation project?
+
+3.
+Using this criteria, please improve the following problem statement: INSERT PROBLEM STATEMENT HERE
+
+4.
+Now we need a persona. Could you please design a persona for this new improved problem statement? This persona should be a [INSERT PERSONA HERE].
+
+5.
+We need to ideate. Please generate 3 non technical ideas to tackle our problem statement for our persona to create an optimized race strategy to drive the car and beat the opponents. 
+Time and budgets are constraints.
+
+Modify the section below for the 3 obstacles for your team 
+Notes :
+Take into consideration vehicle approach speed,  starting angle and difficulty level. We are not to generate computer algorithms for this.
+ 
+The 9 Obstacles are as follows : 
+
+Rocky Road (101 inches) (Difficulty level = 2)
+Steep Grass Hill  (57 inches) (Difficulty level = 3)
+Bender Bridge (97 inches long) (Difficulty level = 1)
+Treacherous terrain (76 inches) (Difficulty level = 2)
+Two Turn Tunnel (94inchs) (Difficulty level = 2)
+Three consecutive seesaws  (24 inches each) (Difficulty level = 3)
+Slalom track (54 inches) (Difficulty level = 2)
+Steep Rolling Hill (24 inches) (Difficulty level = 3)
+Mogul Field (36 inches) (Difficulty level = 2)
+
+6.
+Rank and score the 3 ideas on a scale of 0 to 5, where 0 is the lowest and 5 is the highest. Rank them in a table. Explain the logic and reasoning of how you scored each of the ideas the way you did?​
+​
+Be brief and limit explanation to two sentences per idea.​
+​
+Be concise.
+
+7.
+The idea we will pursue is: <_____insert the idea you will move forward_____>
+OR
+Synthesize and mash up the best elements of each of the top 2 ideas together to create one final idea.
+
+8.
+Generate a 6-panel storyboard outline to explain how the idea will work and deliver net new value to the customer.​ This storyboard will be used to create a video. The storyboard should be specific to idea.​ ​ The storyboard should be designed to help create a demo video.​ ​ The storyboard outline should include a voice-over for each panel.​ ​ Represent the storyboard in a table format.​ This is the idea you should represent:[ insert your chosen idea ] . Be concise.
+
+9.
+For panel 1 create a black and white pencil storyboard sketch. Be specific to the scene and voice-over description.
+
+10.
+What role should each of the 4 or 5 team players play to test this race strategy?  You need navigators, drivers, timers, strategists etc
+
+11.
+What role should each of the 4 or 5 team players play to test this race strategy?  You need navigators, drivers, timers, strategists etc
+
+12.
